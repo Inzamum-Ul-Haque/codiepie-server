@@ -1,0 +1,38 @@
+[
+    {
+        "category_id": "0b3126fee2f2",
+        "category_name": "Javascript"
+    },
+    {
+        "category_id": "14667253e756",
+        "category_name": "PHP"
+    },
+    {
+        "category_id": "bac590e0a1b1",
+        "category_name": "C and C++"
+    },
+    {
+        "category_id": "6476d3f18267",
+        "category_name": "Machine Learning"
+    },
+    {
+        "category_id": "fb24b04e706c",
+        "category_name": "Python"
+    },
+    {
+        "category_id": "21859ba8d3c9",
+        "category_name": "Java"
+    },
+    {
+        "category_id": "d66778fb2a0c",
+        "category_name": "Frontend Courses"
+    },
+    {
+        "category_id": "98fd96fc0c4c",
+        "category_name": "Backend Courses"
+    },
+    {
+        "category_id": "cec7a2457243",
+        "category_name": "C# and .Net"
+    }
+]
