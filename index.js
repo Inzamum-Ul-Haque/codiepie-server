@@ -7,9 +7,13 @@ app.use(cors());
 
 const categories = require("./data/categories.json");
 
-app.get("/", (req, res) => {
+app.get("/categories", (req, res) => {
   res.send(categories);
 });
+
+// app.get('/categories/:id', (req, res) => {
+//   const id
+// })
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
