@@ -15,9 +15,14 @@ app.get("/categories", (req, res) => {
 app.get("/allCourses", (req, res) => {
   res.send(allCourses);
 });
-// app.get('/categories/:id', (req, res) => {
-//   const id
-// })
+
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourses = allCourses.filter(
+    (course) => course.category_id === id
+  );
+  res.send(selectedCourses);
+});
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);

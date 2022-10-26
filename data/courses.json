@@ -8,8 +8,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "https://www.onamae.com/upload_images/column/article/wordpress/52/1654059911.jpg",
+        "image_url": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 20,
+        "rating": 3.5,
+        "rating_count": 30,
         "enrolled": 455,
         "course_details": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you'll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics."
     },
@@ -22,8 +25,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "https://www.onamae.com/upload_images/column/article/wordpress/52/1654059911.jpg",
+        "image_url": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 25,
+        "rating": 4.5,
+        "rating_count": 40,
         "enrolled": 150,
         "course_details": "JavaScript is a popular programming language that is used to make a website interactive. JavaScript courses are offered by online platforms & top Universities. JavaScript can be studied as a stand-alone online course or can be studied under a web development master or nanodegree program; along with HTML, CSS, React, etc."
     },
@@ -36,8 +42,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "./images/course-1.svg",
+        "image_url": "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 15,
+        "rating": 3.5,
+        "rating_count": 75,
         "enrolled": 210,
         "course_details": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP."
     },
@@ -50,8 +59,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "./images/course-2.svg",
+        "image_url": "https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1166&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 10,
+        "rating": 3.0,
+        "rating_count": 45,
         "enrolled": 100,
         "course_details": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP."
     },
@@ -64,8 +76,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "./images/course-4.svg",
+        "image_url": "https://images.unsplash.com/photo-1635775017492-1eb935a082a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 18,
+        "rating": 4.0,
+        "rating_count": 50,
         "enrolled": 510,
         "course_details": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games. Learners in this specialization will start coding right from the start. Every module presents ample opportunities for writing programs and finding errors in the learner's own and others' code. Building on their knowledge, learners will demonstrate their understanding of coding in a practice-intensive final assessment."
     },
@@ -78,8 +93,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "./images/course-6.svg",
+        "image_url": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 14,
+        "rating": 3.6,
+        "rating_count": 48,
         "enrolled": 180,
         "course_details": "This Specialization from leading researchers at the University of Washington introduces you to the exciting, high-demand field of Machine Learning. Through a series of practical case studies, you will gain applied experience in major areas of Machine Learning including Prediction, Classification, Clustering, and Information Retrieval. You will learn to analyze large and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data. Learners will implement and apply predictive, classification, clustering, and information retrieval machine learning algorithms to real datasets throughout each course in the specialization. They will walk away with applied machine learning and Python programming experience."
     },
@@ -92,8 +110,11 @@
             "course_created_at": "2022-03-56 17:27:34",
             "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-male-employee-in-office-picture-id1309328823?b=1&k=20&m=1309328823&s=170667a&w=0&h=a-f8vR5TDFnkMY5poQXfQhDSnK1iImIfgVTVpFZi_KU="
         },
-        "image_url": "./images/course-5.svg",
+        "image_url": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 12,
+        "rating": 5.0,
+        "rating_count": 56,
         "enrolled": 689,
         "course_details": "This Specialization from leading researchers at the University of Washington introduces you to the exciting, high-demand field of Machine Learning. Through a series of practical case studies, you will gain applied experience in major areas of Machine Learning including Prediction, Classification, Clustering, and Information Retrieval. You will learn to analyze large and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data. Learners will implement and apply predictive, classification, clustering, and information retrieval machine learning algorithms to real datasets throughout each course in the specialization. They will walk away with applied machine learning and Python programming experience."
     },
@@ -108,6 +129,9 @@
         },
         "image_url": "https://images.unsplash.com/photo-1555255707-c07966088b7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 24,
+        "rating": 3.5,
+        "rating_count": 69,
         "enrolled": 80,
         "course_details": "The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more. AI is transforming many industries. The Deep Learning Specialization provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career. Along the way, you will also get career advice from deep learning experts from industry and academia."
     },
@@ -122,6 +146,9 @@
         },
         "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 30,
+        "rating": 2.6,
+        "rating_count": 30,
         "enrolled": 255,
         "course_details": "The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization.  After completing those, courses 4 and 5 can be taken in any order.  All 5 are required to earn a certificate."
     },
@@ -136,6 +163,9 @@
         },
         "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 18,
+        "rating": 4.2,
+        "rating_count": 36,
         "enrolled": 280,
         "course_details": "This course provides an introduction to the Java language and object-oriented programming, including an overview of Java syntax and how it differs from a language like Python.  Students will learn how to write custom Java classes and methods, and how to test their code using unit testing and test-driven development.  Topics include basic data structures like Arrays and ArrayLists and overloading methods."
     },
@@ -150,6 +180,9 @@
         },
         "image_url": "https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 16,
+        "rating": 4.2,
+        "rating_count": 40,
         "enrolled": 50,
         "course_details": "In this 2-hours long project-based course, you will build an Angular application that uses a real API to fetch and display cocktail recipes. You will master the basics of Angular routing, authorization and lazy loading NgModules."
     },
@@ -164,6 +197,9 @@
         },
         "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 15,
+        "rating": 3.8,
+        "rating_count": 78,
         "enrolled": 368,
         "course_details": "If innovation and creativity in technology attracts you and developing impressive webpages are your passion, then this specialization is for you. Front-end developers are skilled professionals who are experts in combining the art of designing with the science of programming. The skills acquired in this field presents copious opportunities for  individuals like you in the field of web application development. This Specialization transforms learners with no programming background into front-end Web developers who can build highly engaging consumer-facing, rich front-end Single Page Application (SPA). In this Project, learners will develop frontend solutions for the given problem statements using React. They will build interactive, responsive, and testable Single Page Applications (SPAs) using the skills acquired from the HTML5, CSS3, JavaScript and React courses. Learners should follow the design principles and best practices while developing solutions to create products that meet the industry-standard."
     },
@@ -178,6 +214,9 @@
         },
         "image_url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "start_date": "2022-03-10 20:12:43",
+        "lesson": 22,
+        "rating": 4.0,
+        "rating_count": 42,
         "enrolled": 250,
         "course_details": "Welcome to this introduction on fundamental programming concepts and terminology. This project is intended for learners who have never programmed before. You will be exposed to the basic coding structures such as assignment statements, variables, constants, decision making statements, loops, and arrays in C# Console applications. By successfully completing the hands-on practices assigned, you will understand why and when to apply these basic programming concepts and be better prepared for taking other computer programming courses in any language."
     }
