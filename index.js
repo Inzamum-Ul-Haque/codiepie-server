@@ -8,6 +8,10 @@ app.use(cors());
 const categories = require("./data/categories.json");
 const allCourses = require("./data/courses.json");
 
+app.get("/", (req, res) => {
+  res.send("App running");
+});
+
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
